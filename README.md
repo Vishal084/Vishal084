@@ -34,8 +34,9 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 <img src="https://raw.githubusercontent.com/robertcoopercode/animated-grid-lines/master/demo.gif"  width="100%">
 
-
-<h1 align="left">Connect with me:</h1>
+<br>
+<hr>
+<h1 align="center">Connect with me:</h1>
 <p align="left">
   <a href="https://linkedin.com/in/vishal-tiwari" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal tiwari" height="30" width="40" />
@@ -44,6 +45,9 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishal blogs" height="30" width="40" />
   </a>
 </p>
+
+<br>
+<hr>
 
 <h1 align="center">Languages and Tools:</h1>
 <p align="left">
@@ -95,7 +99,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 <h1 align="center">My GitHub States</h1>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vishal084&theme=onedark" alt="vishal084" />
   </a>
@@ -105,7 +109,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal084&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vishal084&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
 
