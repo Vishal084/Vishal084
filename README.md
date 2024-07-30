@@ -1,6 +1,6 @@
 
 
-<img src="https://c.tenor.com/QpTLQALtdskAAAAj/hii-wave.gif">
+<img src="https://c.tenor.com/QpTLQALtdskAAAAj/hii-wave.gif" height="50px">
 <p align="left"> 
 
   
