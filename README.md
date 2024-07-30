@@ -1,4 +1,7 @@
-<div align="center" style="background: url('https://allisonbishop.com/wp-content/uploads/2018/08/kaboompics_Cup-of-coffee-MacBook-laptop-glasses-on-table-in-cafe.jpg'); background-size: cover; color: white; padding: 20px; border-radius: 10px;">Hi 👋, I'm Vishal Tiwari</div>
+
+<img src="https://allisonbishop.com/wp-content/uploads/2018/08/kaboompics_Cup-of-coffee-MacBook-laptop-glasses-on-table-in-cafe.jpg">
+
+<div align="center">Hi 👋, I'm Vishal Tiwari</div>
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
 
 <p align="center">
