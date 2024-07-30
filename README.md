@@ -4,16 +4,6 @@
 <p align="left"> 
 <br>
 
-- 🌱 I’m currently learning **Node Js**
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vishal084)
-
-- 💬 Ask me about **anything, I will be happy to help**
-
-- 📫 How to reach me: **vishaltiwari03034471@gmail.com**
-
-- ⚡ Fun fact: **die 100 times before living,..**
-<br>
   
   <img src="https://komarev.com/ghpvc/?username=vishal084&label=Profile%20views&color=0e75b6&style=flat" alt="vishal084" />
 </p>
@@ -30,6 +20,17 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **Node Js**
+
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Vishal084)
+
+- 💬 Ask me about **anything, I will be happy to help**
+
+- 📫 How to reach me: **vishaltiwari03034471@gmail.com**
+
+- ⚡ Fun fact: **die 100 times before living,..**
+<br>
 
 <img src="https://raw.githubusercontent.com/robertcoopercode/animated-grid-lines/master/demo.gif"  width="100%">
 
