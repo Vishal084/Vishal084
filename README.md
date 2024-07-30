@@ -20,13 +20,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/robertcoopercode/animated-grid-lines/master/demo.gif" height="80px" width="100%">
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishal084&theme=onedark" alt="vishal084" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/robertcoopercode/animated-grid-lines/master/demo.gif"  width="100%">
 
 - 🌱 I’m currently learning **Node Js**
 
@@ -91,6 +85,12 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishal084&theme=onedark" alt="vishal084" />
   </a>
 </p>
 
