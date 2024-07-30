@@ -99,13 +99,13 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 <h1 align="center">My GitHub States</h1>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vishal084&theme=onedark" alt="vishal084" />
   </a>
 </p>
-
-<p align="center">
+<br>
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal084&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
 
