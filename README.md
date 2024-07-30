@@ -4,8 +4,12 @@
   Hi 👋, I'm Vishal Tiwari
 </h1>
 
-<h4
->Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring Full Stack Web Developer), passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with React and Chakra Ui and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.</h4>
+<h4 align="center" style="color: #ffffff; background: #282c34; padding: 20px; border-radius: 10px;">
+
+Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirations to become a Full Stack Web Developer. I am passionate about creating digital products that enhance everyday experiences. I thrive on working on exciting projects that challenge my skills and knowledge. Currently, I am proficient in React and Chakra UI, and I primarily use JavaScript for web development. I am always on the lookout for interesting and challenging opportunities to further my growth.
+
+</h4>
+
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
 
 <p align="center"> 
