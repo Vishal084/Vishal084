@@ -20,6 +20,8 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 - 🌱 I’m currently learning **Node Js**
 
