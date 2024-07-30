@@ -103,11 +103,12 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vishal084&theme=onedark" alt="vishal084" />
   </a>
-</p>
-<br>
-<p align="right">
+  <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal084&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
+</p>
+<br>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vishal084&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="vishal084" />
