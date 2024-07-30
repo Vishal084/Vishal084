@@ -34,7 +34,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 - ⚡ Fun fact: **die 100 times before living,..**
 <br>
 
-<img src="https://www.icegif.com/wp-content/uploads/icegif-4379.gif"  width="80%" align="center">
+<img src="https://cdn.dribbble.com/users/5911/screenshots/1382887/laptop.gif"  width="80%" align="center">
 
 <br>
 <hr>
