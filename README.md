@@ -34,7 +34,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 - ⚡ Fun fact: **die 100 times before living,..**
 <br>
 
-<img src="https://media.tenor.com/-uI6bq-ZrBkAAAAC/laptop.gif"  width="100%">
+<img src="https://www.icegif.com/wp-content/uploads/icegif-4379.gif"  width="80%" align="center">
 
 <br>
 <hr>
@@ -108,7 +108,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
   
 </p>
 <br>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal084&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
 
