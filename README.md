@@ -91,6 +91,8 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
   </a>
 </p>
 
+<h1>My GitHub States</h1>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vishal084&theme=onedark" alt="vishal084" />
