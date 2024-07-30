@@ -34,7 +34,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 - ⚡ Fun fact: **die 100 times before living,..**
 <br>
 
-<img src="https://raw.githubusercontent.com/robertcoopercode/animated-grid-lines/master/demo.gif"  width="100%">
+<img src="https://media.tenor.com/-uI6bq-ZrBkAAAAC/laptop.gif"  width="100%">
 
 <br>
 <hr>
