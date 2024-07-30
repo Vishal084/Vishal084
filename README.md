@@ -78,13 +78,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal084&show_icons=true&locale=en&layout=compact" alt="vishal084" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal084&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal084&show_icons=true&locale=en" alt="vishal084" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal084&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="vishal084" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal084&" alt="vishal084" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal084&theme=black-ice" alt="vishal084" />
 </p>
