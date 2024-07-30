@@ -1,5 +1,12 @@
 
 
+
+<p align="left"> 
+
+  
+  <img src="https://komarev.com/ghpvc/?username=vishal084&label=Profile%20views&color=0e75b6&style=flat" alt="vishal084" />
+</p>
+
 <h1 align="center" style="background: url('https://allisonbishop.com/wp-content/uploads/2018/08/kaboompics_Cup-of-coffee-MacBook-laptop-glasses-on-table-in-cafe.jpg'); background-size: cover; color: white; padding: 20px; border-radius: 10px;">
   Hi 👋, I'm Vishal Tiwari
 </h1>
@@ -12,9 +19,7 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vishal084&label=Profile%20views&color=0e75b6&style=flat" alt="vishal084" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
