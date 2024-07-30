@@ -17,9 +17,10 @@ Hello stranger! My name is Vishal Tiwari, a Frontend Web Developer with aspirati
 
 </h4>
 
+
 <h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
 
-
+<img src="https://raw.githubusercontent.com/robertcoopercode/animated-grid-lines/master/demo.gif">
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
